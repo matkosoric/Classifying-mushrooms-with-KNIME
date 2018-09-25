@@ -21,15 +21,15 @@ Path to CSV file in CSV reader must be properly set.
 
 ### Confusion Matrix
 
-![Confusion Matrix](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/Confusion Matrix.png?raw=true "Confusion Matrix")
+![Confusion Matrix](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/master/Confusion-Matrix.png?raw=true "Confusion Matrix")
 
 ### Decision Tree
 
-![Decision Tree](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/Mushrooms-Decision-Tree-KNIME-Matko-Soric.png?raw=true "Decision Tree")
+![Decision Tree](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/master/Mushrooms-Decision-Tree-KNIME-Matko-Soric.png?raw=true "Decision Tree")
 
 
 ### Workflow
 
-![Decision Tree](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/Workflow.png?raw=true "Workflow")
+![Decision Tree](https://raw.githubusercontent.com/matkosoric/Classifying-mushrooms-with-KNIME/master/Workflow.png?raw=true "Workflow")
       
     
